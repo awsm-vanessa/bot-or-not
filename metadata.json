@@ -1,0 +1,8 @@
+{
+  "name": "Bot or Not?",
+  "description": "Never waste another second on a dating app bot. Enterprise-grade intelligence to decode patterns, filter scripts, and secure your focus for genuine connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
